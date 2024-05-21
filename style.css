@@ -1,0 +1,27 @@
+*{
+    background-color: rgb(27, 19, 21);
+    color: red;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.navig{
+    display: flex;
+    text-decoration: none;
+    
+}
+#na{
+    padding: 25px;
+}
+video{
+    padding: 50px;
+    display: block;
+
+}
+img{
+    padding: 50px;
+    display: inline;
+}
